@@ -1,6 +1,6 @@
-# Example: GPIO
+# Example: Red Mesh Wifi
 
-This test code shows how to configure gpio and how to use gpio interrupt.
+En este ejemplo se configuraron varios nodos, para que constantemente enviaran informacion de un contador al nodo Root
 
 ## GPIO functions:
 

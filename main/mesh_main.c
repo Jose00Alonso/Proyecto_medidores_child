@@ -38,7 +38,7 @@
 #define ESP_INTR_FLAG_DEFAULT 0
 
 /*******************************************************
- *                Variable Definitions
+ *         Variable Definitions
  *******************************************************/
 static const char *MESH_TAG = "mesh_main";
 static const uint8_t MESH_ID[6] = { 0x77, 0x77, 0x77, 0x77, 0x77, 0x77};
